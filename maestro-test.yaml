@@ -2,5 +2,5 @@ appId: host.exp.Exponent
 ---
 - tapOn: Click me!
 - assertVisible:
-    label: Please use a valid mail addressfds.
+    text: Please use a valid mail addressfds.
     optional: true
